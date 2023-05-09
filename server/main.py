@@ -1,3 +1,11 @@
+
+# BEARER_TOKEN = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiRW5vc2ggQ29vayIsInNwb3J0IjoiRm9vdGJhbGwifQ.QQ9a9OL6xWyYFNAlIwyAmdiNjbA5y30qAbd6ZL4iwIc
+# OPENAI_API_KEY = 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
+# DATASTORE = pinecone
+# PINECONE_API_KEY = bb4485ca-d10d-4ec3-a1ee-611919c7d738
+# PINECONE_ENVIRONMENT = northamerica-northeast1-gcp
+# PINECONE_INDEX = langchain-docs-plugin
+
 import os
 from typing import Optional
 import uvicorn
