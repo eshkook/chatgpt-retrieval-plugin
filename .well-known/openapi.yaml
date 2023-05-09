@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: This API lets you search through the LangChain Python library Documentation.
 servers:
-  - url: https://lobster-app-w7tpi.ondigitalocean.app
+  - url: https://octopus-app-afah2.ondigitalocean.app/
 paths:
   /query:
     post:
